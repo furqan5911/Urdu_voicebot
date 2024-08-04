@@ -1,0 +1,6 @@
+streamlit
+audio_recorder_streamlit
+SpeechRecognition
+gtts
+python-dotenv
+openai
